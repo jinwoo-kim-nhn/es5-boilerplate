@@ -5,7 +5,6 @@
   "main": "index.js",
   "scripts": {
     "eslint": "eslint src",
-    "build": "node build.js",
     "dev": "browser-sync start --config bs-config.js --startPath 'src/index.html'"
   },
   "author": "",
@@ -17,8 +16,7 @@
     "eslint-config-tui": "^2.0.0",
     "eslint-plugin-lodash": "^3.1.0",
     "eslint-plugin-prettier": "^3.0.0",
-    "prettier": "^1.15.1",
-    "usemin": "^0.5.0"
+    "prettier": "^1.15.1"
   },
   "dependencies": {
     "jquery": "^3.3.1",
