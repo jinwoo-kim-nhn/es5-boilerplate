@@ -3,7 +3,9 @@
 ## Features
 
 #### ESLint
-* config - [eslint-config-tui](https://github.com/nhnent/tui.eslint.config)
+* [eslint-config-tui](https://github.com/nhnent/tui.eslint.config)
+* [eslint-config-prettier](https://github.com/prettier/eslint-config-prettier)
+* [eslint-plugin-prettier](https://github.com/prettier/eslint-plugin-prettier)
 
 #### Prettier
 
@@ -15,13 +17,11 @@
 
 ## Getting started
 
-1. `git clone https://github.com/jinwoo-kim-nhn/es6-boilerplate.git`
+1. `git clone https://github.com/jinwoo-kim-nhn/es5-boilerplate.git`
 2. Inside repo directory run `npm install`
 3. Start the dev serve `npm run dev`
-4. Open http://localhost:8080
+4. Open http://localhost:3000
 
 ## Commands
 * `npm run dev` - start the dev serve
 * `npm run lint` - run an ESLint check
-* `npm run build` - create build in dist folder
-* `npm run build-dev` - create build for dev in dist folder
