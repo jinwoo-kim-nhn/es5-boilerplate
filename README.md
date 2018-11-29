@@ -3,11 +3,13 @@
 ## Features
 
 #### ESLint
+* [eslint](https://eslint.org/)
 * [eslint-config-tui](https://github.com/nhnent/tui.eslint.config)
 * [eslint-config-prettier](https://github.com/prettier/eslint-config-prettier)
 * [eslint-plugin-prettier](https://github.com/prettier/eslint-plugin-prettier)
 
 #### Prettier
+* [prettier](https://prettier.io/)
 
 ## Browser support
 
