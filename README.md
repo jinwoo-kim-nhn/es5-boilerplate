@@ -15,8 +15,6 @@
 
 #### supports all browsers
 
-* Supports all browsers.
-
 ## Getting started
 
 1. `git clone https://github.com/jinwoo-kim-nhn/es5-boilerplate.git`
