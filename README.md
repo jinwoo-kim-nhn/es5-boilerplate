@@ -1,6 +1,6 @@
 # ES5 Boilerplate
 
-## Features
+## Included Modules
 
 #### ESLint
 * [eslint](https://eslint.org/)
@@ -13,15 +13,25 @@
 
 ## Browser support
 
-#### supports all browsers
+#### Supports all browsers
 
 ## Getting started
 
-1. `git clone https://github.com/jinwoo-kim-nhn/es5-boilerplate.git`
-2. Inside repo directory run `npm install`
-3. Start the dev serve `npm run dev`
-4. Open http://localhost:3000
+1. Gets the git project. 
+```js
+  git clone https://github.com/jinwoo-kim-nhn/es5-boilerplate.git
+```
+2. Run the installation from the internal repo directory.
+```js
+  npm install
+```
+3. Start the dev server.
+```js
+  npm run dev
+```
+4. Open http://localhost:3000 in your browser.
+
 
 ## Commands
-* `npm run dev` - start the dev serve
-* `npm run lint` - run an ESLint check
+* `npm run dev` - Start dev server.
+* `npm run lint` - Run ESLint.
