@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "eslint": "eslint src",
+    "lint": "eslint src",
     "dev": "browser-sync start --config bs-config.js --startPath 'src/index.html'"
   },
   "author": "",
