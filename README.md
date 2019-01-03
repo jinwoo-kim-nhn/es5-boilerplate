@@ -1,5 +1,7 @@
 # ES5 Boilerplate
 
+This **boilerplate** is a guide to encourage the use of static analysis tools such as **eslint** and **preitter**.
+
 ## Included Modules
 
 #### ESLint
