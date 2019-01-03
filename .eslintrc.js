@@ -9,6 +9,6 @@ module.exports = {
   globals: {'_': true},
   // add your custom rules here
   rules: {
-    indent: [2, 2, {SwitchCase: 1, ignoreComments: false, ImportDeclaration: 1, flatTernaryExpressions: false}]
+    // indent: [2, 2, {SwitchCase: 1, ignoreComments: false, ImportDeclaration: 1, flatTernaryExpressions: false}]
   }
 };
