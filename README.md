@@ -24,7 +24,7 @@ This **boilerplate** is a guide to encourage the use of static analysis tools su
 
 ## Getting started
 
-1. Gets the git project. 
+1. Clone this repository.
 ```js
   git clone https://github.com/jinwoo-kim-nhn/es5-boilerplate.git
 ```
