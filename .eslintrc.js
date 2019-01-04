@@ -6,9 +6,7 @@ module.exports = {
   },
   extends: ['tui', 'plugin:prettier/recommended'],
   plugins: [],
-  globals: {'_': true},
+  globals: {_: true},
   // add your custom rules here
-  rules: {
-    indent: [2, 2, {SwitchCase: 1, ignoreComments: false, ImportDeclaration: 1, flatTernaryExpressions: false}]
-  }
+  rules: {}
 };

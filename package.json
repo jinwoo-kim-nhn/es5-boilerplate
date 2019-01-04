@@ -2,12 +2,11 @@
   "name": "es5-boilerplate",
   "version": "0.0.1",
   "description": "",
-  "main": "index.js",
   "scripts": {
     "lint": "eslint src",
     "dev": "browser-sync start --config bs-config.js --startPath 'src/index.html'"
   },
-  "author": "",
+  "author": "NHNEnt FE Development Lab <dl_javascript@nhnent.com>",
   "license": "MIT",
   "devDependencies": {
     "browser-sync": "^2.26.3",
@@ -17,9 +16,5 @@
     "eslint-plugin-lodash": "^3.1.0",
     "eslint-plugin-prettier": "^3.0.0",
     "prettier": "^1.15.1"
-  },
-  "dependencies": {
-    "jquery": "^3.3.1",
-    "lodash": "^4.17.11"
   }
 }
